@@ -10,12 +10,12 @@ When properly installed, the script can extract some queryparams from a media UR
  - the SlimerJS: https://slimerjs.org/download.html
  - Firefox
 
-## Uaage
+## Usage
 
-From a system with a GUI run:
+if the SlimerJS install is located at `slimerjs-0.10.2/`:
 
 ```sh
-slimerjs-0.10.2/slimerjs test.js <URL>
+slimerjs-0.10.2/slimerjs extraxt.js <URL>
 
 queryparams: e=1483443996&hash=nSxJoHM1sk_zxdFnSRdInQ
 
